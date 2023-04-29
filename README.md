@@ -1,2 +1,2 @@
 # Carrusel-de-Lenguajes
-carrusel de lenguajes de programación con html5 y Css
+Carrusel de lenguajes de programación, en los cuales poseo conocimiento, dicho proyecto se realizó con html5 y Css.-
